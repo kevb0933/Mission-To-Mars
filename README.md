@@ -3,9 +3,7 @@
 ### The first objective was to Scrape Titles and Preview Text from Mars News
 ### Next we need to Scrape and Analyze the Mars Weather Data
 ## The Results
-### Part 1
-- See json file "news.json"
-### Part 2
+
 - There are 12 months on Mars
 - There are 1,867 Martian days worth of data
 - Average low temperature by month
