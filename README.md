@@ -1,10 +1,8 @@
 # Mission-To-Mars
 ## Overview
-### Part 1
-Scrape Titles and Preview Text from Mars News
-### Part 2
-Scrape and Analyze Mars Weather Data
-## Results
+### The first objective was to Scrape Titles and Preview Text from Mars News
+### Next we need to Scrape and Analyze the Mars Weather Data
+## The Results
 ### Part 1
 - See json file "news.json"
 ### Part 2
